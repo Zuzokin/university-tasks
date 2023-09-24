@@ -1,0 +1,22 @@
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\bin\Debug\TVP6.exe.config
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\bin\Debug\TVP6.exe
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\bin\Debug\TVP6.pdb
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.AssemblyReference.cache
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.Form1.resources
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.Properties.Resources.resources
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.GenerateResource.cache
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.CoreCompileInputs.cache
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.exe
+C:\Users\user\ВУЗ\С#\ТВП6\TVP6\TVP6\obj\Debug\TVP6.pdb
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\bin\Debug\TVP6.exe.config
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\bin\Debug\TVP6.exe
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\bin\Debug\TVP6.pdb
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.Form1.resources
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.exe
+C:\Users\Михаил\Desktop\Новая папка\6\ТВП6\TVP6\TVP6\obj\Debug\TVP6.pdb

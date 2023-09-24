@@ -1,0 +1,55 @@
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\bin\Debug\TVP_5.exe.config
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\bin\Debug\TVP_5.exe
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\bin\Debug\TVP_5.pdb
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.AssemblyReference.cache
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.SuggestedBindingRedirects.cache
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.Form1.resources
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.Properties.Resources.resources
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.GenerateResource.cache
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.CoreCompileInputs.cache
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.exe
+C:\VUZ\3.5 курс\Теория вычислительных процессов\3\TVP_5\TVP_5\obj\Debug\TVP_5.pdb
+D:\ТВП\3\TVP_5\TVP_5\bin\Debug\TVP_5.exe.config
+D:\ТВП\3\TVP_5\TVP_5\bin\Debug\TVP_5.exe
+D:\ТВП\3\TVP_5\TVP_5\bin\Debug\TVP_5.pdb
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.AssemblyReference.cache
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.SuggestedBindingRedirects.cache
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.Form1.resources
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.Properties.Resources.resources
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.GenerateResource.cache
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.CoreCompileInputs.cache
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.exe
+D:\ТВП\3\TVP_5\TVP_5\obj\Debug\TVP_5.pdb
+D:\ТВП\5\TVP_5\TVP_5\bin\Debug\TVP_5.exe.config
+D:\ТВП\5\TVP_5\TVP_5\bin\Debug\TVP_5.exe
+D:\ТВП\5\TVP_5\TVP_5\bin\Debug\TVP_5.pdb
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.AssemblyReference.cache
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.SuggestedBindingRedirects.cache
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.Form1.resources
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.Properties.Resources.resources
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.GenerateResource.cache
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.CoreCompileInputs.cache
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.exe
+D:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.pdb
+F:\ТВП\5\TVP_5\TVP_5\bin\Debug\TVP_5.exe.config
+F:\ТВП\5\TVP_5\TVP_5\bin\Debug\TVP_5.exe
+F:\ТВП\5\TVP_5\TVP_5\bin\Debug\TVP_5.pdb
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.AssemblyReference.cache
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.SuggestedBindingRedirects.cache
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.Form1.resources
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.Properties.Resources.resources
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.GenerateResource.cache
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.CoreCompileInputs.cache
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.exe
+F:\ТВП\5\TVP_5\TVP_5\obj\Debug\TVP_5.pdb
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\bin\Debug\TVP_5.exe.config
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\bin\Debug\TVP_5.exe
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\bin\Debug\TVP_5.pdb
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.Form1.resources
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.exe
+C:\Users\Михаил\Desktop\Новая папка\5\TVP_5\TVP_5\obj\Debug\TVP_5.pdb

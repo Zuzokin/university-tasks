@@ -1,0 +1,5 @@
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Release\net6.0-windows\publish\TVP_Laba1.exe
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Release\net6.0-windows\publish\TVP_Laba1.dll
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Release\net6.0-windows\publish\TVP_Laba1.deps.json
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Release\net6.0-windows\publish\TVP_Laba1.runtimeconfig.json
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Release\net6.0-windows\publish\TVP_Laba1.pdb

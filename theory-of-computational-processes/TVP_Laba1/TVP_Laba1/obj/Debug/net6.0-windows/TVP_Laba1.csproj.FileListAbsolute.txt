@@ -1,0 +1,17 @@
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Debug\net6.0-windows\TVP_Laba1.exe
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Debug\net6.0-windows\TVP_Laba1.deps.json
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Debug\net6.0-windows\TVP_Laba1.runtimeconfig.json
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Debug\net6.0-windows\TVP_Laba1.dll
+C:\Projects\TVP_Laba1\TVP_Laba1\bin\Debug\net6.0-windows\TVP_Laba1.pdb
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.csproj.AssemblyReference.cache
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.Form1.resources
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.csproj.GenerateResource.cache
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.AssemblyInfoInputs.cache
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.AssemblyInfo.cs
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.csproj.CoreCompileInputs.cache
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.dll
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\refint\TVP_Laba1.dll
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.pdb
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\TVP_Laba1.genruntimeconfig.cache
+C:\Projects\TVP_Laba1\TVP_Laba1\obj\Debug\net6.0-windows\ref\TVP_Laba1.dll
